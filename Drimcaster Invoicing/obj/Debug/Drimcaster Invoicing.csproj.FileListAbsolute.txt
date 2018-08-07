@@ -1,0 +1,11 @@
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\bin\Debug\Drimcaster Invoicing.exe.config
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\bin\Debug\Drimcaster Invoicing.exe
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\bin\Debug\Drimcaster Invoicing.pdb
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster Invoicing.csprojAssemblyReference.cache
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster_Invoicing.Form1.resources
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster_Invoicing.Inventory.resources
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster_Invoicing.Properties.Resources.resources
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster Invoicing.csproj.GenerateResource.cache
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster Invoicing.csproj.CoreCompileInputs.cache
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster Invoicing.exe
+C:\Users\dorez\source\repos\Drimcaster Invoicing\Drimcaster Invoicing\obj\Debug\Drimcaster Invoicing.pdb
